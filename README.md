@@ -3,7 +3,7 @@
 
 
 ## _NOTICE_
-This is a forked project of another [Python made browser](https://github.com/ProgrammingHero1/my_cool_browser) made by [Prograng-Hero](https://youtube.com/c/ProgrammingHero) in this [video](https://youtu.be/z-5bZ8EoKu4).
+This is a forked project of another [Python made browser](https://github.com/ProgrammingHero1/my_cool_browser) made by [Programming-Hero](https://youtube.com/c/ProgrammingHero) in this [video](https://youtu.be/z-5bZ8EoKu4).
 
 # **About**
 Before running this file, there are some prerequistes to be installed:
